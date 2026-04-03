@@ -1,0 +1,9 @@
+{
+	"name": "Junaiddatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98e54d6d-fb69-4b0a-9520-67a6d6c7943c",
+		"tenantId": "3967e3f6-7bc5-477f-b353-a53f4fe6af99"
+	}
+}
