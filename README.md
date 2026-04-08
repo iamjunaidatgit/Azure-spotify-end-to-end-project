@@ -169,6 +169,6 @@ spotify-adf-pipeline/
 
 ## 👤 Author
 
-**Junaid** — Senior Systems Engineer transitioning to Data Engineering  
+**Junaid** — Data Engineer  
 📍 Hyderabad, India  
 🐙 [github.com/iamjunaidatgit](https://github.com/iamjunaidatgit)
