@@ -22,6 +22,12 @@
   "table" : "DimArtist"
   "cdc" : "updated_at"
   "from_date" : ""
+  },
+  {
+  "schema" : "dbo"
+  "table" : "FactStream"
+  "cdc" : "updated_at"
+  "from_date" : ""
   }
 
 ]
