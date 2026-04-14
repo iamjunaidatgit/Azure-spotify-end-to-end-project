@@ -299,12 +299,18 @@ spotify-azure-end-to-end/
 ## 📸 Pipeline Screenshots
 
 **ADF — incremental_loop (ForEach orchestration)**
+<img width="1187" height="545" alt="image" src="https://github.com/user-attachments/assets/06509656-5c2e-4620-af98-32eec73009e0" />
+
 
 **ADF — incremental_ingestion (If Condition branch)**
+<img width="436" height="491" alt="image" src="https://github.com/user-attachments/assets/ae5f40b6-3511-4eb5-906a-7d89fed53e5b" />
 
 **Databricks — gold_pipeline DLT run (Completed)**
+<img width="1107" height="748" alt="image" src="https://github.com/user-attachments/assets/4ac111e4-0bbc-4ae5-8ab2-5efc46daafc2" />
+
 
 **Azure Resource Group — Full infrastructure overview**
+<img width="823" height="585" alt="image" src="https://github.com/user-attachments/assets/a197c397-213b-4e77-a59f-ee9c5a8a8442" />
 
 ---
 
